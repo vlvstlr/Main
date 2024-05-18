@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GDHFQUE5MP7ZS7CLHALUEWQCXXDAURHPUOCK6GNXA3JLHFWNIG2OORCL"]
+ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
 
 [DOCUMENTATION]
-ORG_NAME="Oracle"
-ORG_URL="https://www.oracle-stellar.org/"
-ORG_DESCRIPTION="Oracle Corporation is an American multinational computer technology company headquartered in Austin, Texas, United States. In 2020, Oracle was the third-largest software company in the world by revenue and market capitalization."
-ORG_LOGO="https://www.oracle-stellar.org/orcl.png"
+ORG_NAME="WallStreetBets"
+ORG_URL="https://www.wsb-stellar.com/"
+ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
+ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
 
 
 [[CURRENCIES]]
-code="ORCL"
+code="WSB"
 status="live"
-display_decimals=3
-issuer="GDHFQUE5MP7ZS7CLHALUEWQCXXDAURHPUOCK6GNXA3JLHFWNIG2OORCL"
+display_decimals=2
+issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
 anchor_asset_type="crypto"
-name="Oracle"
-desc="Oracle Corporation is an American multinational computer technology company headquartered in Austin, Texas, United States. In 2020, Oracle was the third-largest software company in the world by revenue and market capitalization."
-image="https://www.oracle-stellar.org/orcl.png"
+name="WallStreetBets"
+desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
+image="https://www.wsb-stellar.com/wsb.png"
