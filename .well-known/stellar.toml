@@ -1,22 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=[
-"GBP5HMPKRZPAELNZG63ZNEGZZXTXUT6AMCRSX3TMKVIMT4E7ICR2W7UB",
-]
+ACCOUNTS=["GDHFQUE5MP7ZS7CLHALUEWQCXXDAURHPUOCK6GNXA3JLHFWNIG2OORCL"]
 
 [DOCUMENTATION]
-ORG_NAME="Telosa"
-ORG_URL="https://www.telosa-stellar.com/"
-ORG_DESCRIPTION="Telosa is a proposed utopian planned US city conceived by American billionaire Marc Lore and announced in September 2021. The project has a target population of 5 million people by 2050, with the first phase of construction expected to house 50,000."
-ORG_LOGO="https://www.telosa-stellar.com/tls.png"
+ORG_NAME="Oracle"
+ORG_URL="https://www.oracle-stellar.org/"
+ORG_DESCRIPTION="Oracle Corporation is an American multinational computer technology company headquartered in Austin, Texas, United States. In 2020, Oracle was the third-largest software company in the world by revenue and market capitalization."
+ORG_LOGO="https://www.oracle-stellar.org/orcl.png"
 
 
 [[CURRENCIES]]
-code="Telosa"
+code="ORCL"
 status="live"
-display_decimals=2
-issuer="GBP5HMPKRZPAELNZG63ZNEGZZXTXUT6AMCRSX3TMKVIMT4E7ICR2W7UB"
+display_decimals=3
+issuer="GDHFQUE5MP7ZS7CLHALUEWQCXXDAURHPUOCK6GNXA3JLHFWNIG2OORCL"
 anchor_asset_type="crypto"
-name="Telosa City"
-desc="Telosa is a proposed utopian planned US city conceived by American billionaire Marc Lore and announced in September 2021."
-image="https://www.telosa-stellar.com/tls.png"
+name="Oracle"
+desc="Oracle Corporation is an American multinational computer technology company headquartered in Austin, Texas, United States. In 2020, Oracle was the third-largest software company in the world by revenue and market capitalization."
+image="https://www.oracle-stellar.org/orcl.png"
