@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
+ACCOUNTS=["GAZLHVJGWRT44TBOHMKVE23SNUDWN5EGOXDBAGWX5G5H2LJQK5GQWHIP"]
 
 [DOCUMENTATION]
-ORG_NAME="WallStreetBets"
-ORG_URL="https://www.wsb-stellar.com/"
-ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
+ORG_NAME="T20WHIPLASH347"
+ORG_URL="https://www.t20whiplash347-aramco.org/"
+ORG_DESCRIPTION="The ICC Men's T20 World Cup, is the Twenty20 International cricket tournament, organised by the International Cricket Council since 2007. The event has generally been held every two years."
+ORG_LOGO="https://www.t20whiplash347-aramco.org/whip.png"
 
 
 [[CURRENCIES]]
-code="WSB"
+code="T20WHIPLASH"
 status="live"
-display_decimals=2
-issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
+display_decimals=4
+issuer="GAZLHVJGWRT44TBOHMKVE23SNUDWN5EGOXDBAGWX5G5H2LJQK5GQWHIP"
 anchor_asset_type="crypto"
-name="WallStreetBets"
-desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-image="https://www.wsb-stellar.com/wsb.png"
+name="WhipLash x T20"
+desc="The ICC Men's T20 World Cup, is the Twenty20 International cricket tournament, organised by the International Cricket Council since 2007. The event has generally been held every two years."
+image="https://www.t20whiplash347-aramco.org/whip.png"
