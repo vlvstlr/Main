@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAZLHVJGWRT44TBOHMKVE23SNUDWN5EGOXDBAGWX5G5H2LJQK5GQWHIP"]
+ACCOUNTS=["GAL53RRAZEMYPCAZC6YEJFNA46FGQ3YIIW5HOGXU2TGLN4CGQYEINVDA"]
 
 [DOCUMENTATION]
-ORG_NAME="T20WHIPLASH347"
-ORG_URL="https://www.t20whiplash347-aramco.org/"
-ORG_DESCRIPTION="The ICC Men's T20 World Cup, is the Twenty20 International cricket tournament, organised by the International Cricket Council since 2007. The event has generally been held every two years."
-ORG_LOGO="https://www.t20whiplash347-aramco.org/whip.png"
+ORG_NAME="NVIDIA"
+ORG_URL="https://www.stellar-nvda.com/"
+ORG_DESCRIPTION="NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
+ORG_LOGO="https://www.stellar-nvda.com/nvda.png"
 
 
 [[CURRENCIES]]
-code="T20WHIPLASH"
+code="NVDA"
 status="live"
 display_decimals=4
-issuer="GAZLHVJGWRT44TBOHMKVE23SNUDWN5EGOXDBAGWX5G5H2LJQK5GQWHIP"
+issuer="GAL53RRAZEMYPCAZC6YEJFNA46FGQ3YIIW5HOGXU2TGLN4CGQYEINVDA"
 anchor_asset_type="crypto"
-name="WhipLash x T20"
-desc="The ICC Men's T20 World Cup, is the Twenty20 International cricket tournament, organised by the International Cricket Council since 2007. The event has generally been held every two years."
-image="https://www.t20whiplash347-aramco.org/whip.png"
+name="NVIDIA"
+desc="NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
+image="https://www.stellar-nvda.com/nvda.png"
