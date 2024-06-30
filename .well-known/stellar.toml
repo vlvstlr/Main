@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAL53RRAZEMYPCAZC6YEJFNA46FGQ3YIIW5HOGXU2TGLN4CGQYEINVDA"]
+ACCOUNTS=["GB655IHUEKJ7STDVNIMXOAF6HUDIOC7EIRS5GOMG6ZQOVBZSJHBYVVLV"]
 
 [DOCUMENTATION]
-ORG_NAME="NVIDIA"
-ORG_URL="https://www.stellar-nvda.com/"
-ORG_DESCRIPTION="NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
-ORG_LOGO="https://www.stellar-nvda.com/nvda.png"
+ORG_NAME="VALVE Corporation"
+ORG_URL="https://www.valvestellar.com/"
+ORG_DESCRIPTION="Valve Corporation, also known as Valve Software, is an American video game developer, publisher, and digital distribution company headquartered in Bellevue, Washington."
+ORG_LOGO="https://www.valvestellar.com/valve.png"
 
 
 [[CURRENCIES]]
-code="NVDA"
+code="VALVE"
 status="live"
-display_decimals=4
-issuer="GAL53RRAZEMYPCAZC6YEJFNA46FGQ3YIIW5HOGXU2TGLN4CGQYEINVDA"
+display_decimals=3
+issuer="GB655IHUEKJ7STDVNIMXOAF6HUDIOC7EIRS5GOMG6ZQOVBZSJHBYVVLV"
 anchor_asset_type="crypto"
-name="NVIDIA"
-desc="NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
-image="https://www.stellar-nvda.com/nvda.png"
+name="VALVE Corp"
+desc="Valve Corporation, also known as Valve Software, is an American video game developer, publisher, and digital distribution company headquartered in Bellevue, Washington."
+image="https://www.valvestellar.com/valve.png"
